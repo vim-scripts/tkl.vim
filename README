@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2728
+
+A syntax file to the script files used by the Tikle tool.
+
+More info about Tikle at http://c2zlabs.com
+
+I've only tested this with Vim 7.1 and 7.2
